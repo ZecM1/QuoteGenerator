@@ -1,4 +1,4 @@
-# Quote Generator
+# JAVASCRIPT Project - Quote Generator
 
 The "Quote Generator" website is a simple yet engaging tool that fetches and displays quotes from an API with a single button click. It also includes features for sharing quotes on Twitter and is designed to be responsive for both tablets and mobile phones.
 
