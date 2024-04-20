@@ -6,16 +6,16 @@ The "Quote Generator" website is a simple yet engaging tool that fetches and dis
 
 ### Dynamic Quote Fetching:
 
-    Utilizes the await fetch method to retrieve quotes from an API, ensuring users always see a new quote with each click.
+Utilizes the await fetch method to retrieve quotes from an API, ensuring users always see a new quote with each click.
 
 ### Responsive Design:
 
-    Employs CSS media queries to ensure the website is optimized for both tablets and mobile phones by reducing the font size for smaller devices and larger texts.
+Employs CSS media queries to ensure the website is optimized for both tablets and mobile phones by reducing the font size for smaller devices and larger texts.
 
 ### Animated Loader:
 
-    Implements a centered animated loader using flexbox, enhancing the user interface by providing visual feedback during the quote fetching process.
+Implements a centered animated loader using flexbox, enhancing the user interface by providing visual feedback during the quote fetching process.
 
 ### SVG Background Pattern:
 
-    Incorporates a visually appealing SVG background pattern from Hero Patterns, adding a professional touch to the website's aesthetics.
+Incorporates a visually appealing SVG background pattern from Hero Patterns, adding a professional touch to the website's aesthetics.
