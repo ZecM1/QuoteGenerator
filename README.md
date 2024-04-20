@@ -19,3 +19,17 @@ Implements a centered animated loader using flexbox, enhancing the user interfac
 ### SVG Background Pattern:
 
 Incorporates a visually appealing SVG background pattern from Hero Patterns, adding a professional touch to the website's aesthetics.
+
+## Installation
+
+To get a local copy up and running, follow these simple steps:
+
+- Clone the repository to your local machine.
+- Navigate to the project directory.
+- Open the index.html file in your preferred web browser.
+
+## Credits
+
+API: quote-generator by JacintoDesign
+
+SVG Background Pattern: Hero Patterns
