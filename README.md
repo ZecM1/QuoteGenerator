@@ -4,7 +4,7 @@
 
 The "Quote Generator" website is a simple yet engaging tool that fetches and displays quotes from an API with a single button click. It also includes features for sharing quotes on Twitter and is designed to be responsive for both tablets and mobile phones.
 
-## Key features and technologies used in the development of the Quote Generator include:
+## Key features and technologies
 
 ### Dynamic Quote Fetching:
 
